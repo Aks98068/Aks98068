@@ -90,26 +90,41 @@
 </table>
 
 ---
+# ⚙️ Tools, Technologies & Development
 
-# 💻 Programming Languages
+## 🛠️ Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,js,html,css,bash,batch"/>
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-Network%20Security-214478?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# ⚙️ Technologies & Development
+## 💻 Technologies & Development
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,postgres,nodejs,react,nextjs,tailwind,"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,postgres,nodejs,react,nextjs,tailwind"/>
 
 </p>
 
 ---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,cpp,cs,js,html,css,bash"/>
+
+</p>
 
 # 🛠️ Areas of Interest
 
