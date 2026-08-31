@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Abhishekh%20Kumar%20Sah&fontSize=52&fontColor=00E5FF&fontAlignY=35&desc=Cybersecurity%20%26%20Digital%20Forensics%20Student%20%7C%20Security%20Researcher%20%7C%20Developer&descSize=20&descAlignY=65" width="100%" alt="Abhishekh Kumar Sah">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Abhishekh%20Kumar%20Sah&fontSize=52&fontColor=00E5FF" width="100%" alt="Abhishekh Kumar Sah">
+
+<h3 align="center">
+🛡️ Cybersecurity & Digital Forensics Student
+</h3>
+
+<p align="center">
+🔍 Security Researcher &nbsp;•&nbsp; 💻 Developer
+</p>
+
 
 <p align="center">
   <a href="https://github.com/Aks98068">
