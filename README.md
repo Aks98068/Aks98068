@@ -1,18 +1,27 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">
-  <img src="https://img.shields.io/badge/ABHISHEKH%20KUMAR%20SAH-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117" alt="Abhishekh Kumar Sah">
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#00D9FF">
+
+<br>
+
+<h1>
+  <font color="#0D1117">ABHISHEKH KUMAR SAH</font>
 </h1>
 
+<br>
+
+</td>
+</tr>
+</table>
+
 <h3 align="center">
-  🛡️ Cybersecurity & Digital Forensics Student
+  Cybersecurity & Digital Forensics Student
 </h3>
 
 <p align="center">
-  🔐 Cybersecurity &nbsp;•&nbsp;
-  🌐 Networking &nbsp;•&nbsp;
-  🔍 Digital Forensics &nbsp;•&nbsp;
-  🔗 Blockchain
+  🔍 Security Researcher &nbsp;•&nbsp; 💻 Developer
 </p>
 
 <p align="center">
@@ -21,13 +30,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aks98068&label=Profile%20Views&style=for-the-badge&color=00D9FF" alt="Profile Views">
-</p>
-
-<br>
-
 <!-- ===================== END HEADER ===================== -->
+
 
 
 <!-- ===================== ABOUT ===================== -->
