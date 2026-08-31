@@ -1,21 +1,34 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Abhishekh+Kumar+Sah;🛡️+Cybersecurity+%26+Digital+Forensics" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/ABHISHEKH%20KUMAR%20SAH-0D1117?style=for-the-badge&labelColor=00D9FF&color=0D1117" alt="Abhishekh Kumar Sah">
 </h1>
 
 <h3 align="center">
-🛡️ Cybersecurity & Digital Forensics Student | 🔍 Security Researcher | 💻 Developer
+  🛡️ Cybersecurity & Digital Forensics Student
 </h3>
 
 <p align="center">
+  🔐 Cybersecurity &nbsp;•&nbsp;
+  🌐 Networking &nbsp;•&nbsp;
+  🔍 Digital Forensics &nbsp;•&nbsp;
+  🔗 Blockchain
+</p>
+
+<p align="center">
   <a href="https://github.com/Aks98068">
-    <img src="https://komarev.com/ghpvc/?username=Aks98068&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aks98068&label=Profile%20Views&style=for-the-badge&color=00D9FF" alt="Profile Views">
+</p>
 
 <br>
+
+<!-- ===================== END HEADER ===================== -->
+
 
 <!-- ===================== ABOUT ===================== -->
 
