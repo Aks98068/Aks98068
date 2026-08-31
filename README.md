@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:1565C0&height=220&section=header&text=Abhishekh%20Kumar%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%26%20Digital%20Forensics%20Student%20%F0%9F%9B%A1%EF%B8%8F&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Abhishekh Kumar Sah">
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:1565C0&height=200&section=header&text=Abhishekh%20Kumar%20Sah&fontSize=52&fontColor=ffffff" width="100%" alt="Abhishekh Kumar Sah">
 
 
 <p align="center">
