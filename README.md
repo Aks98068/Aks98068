@@ -1,14 +1,4 @@
-<div style="width:100%; background-color:#0D1117; padding:50px 0; text-align:center;">
-
-<h1 style="color:#00D9FF; margin:0;">
-ABHISHEKH KUMAR SAH
-</h1>
-
-<h3 style="color:#FFFFFF;">
-🛡️ Cybersecurity & Digital Forensics Student | 🔍 Security Researcher | 💻 Developer
-</h3>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:1565C0&height=220&section=header&text=Abhishekh%20Kumar%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20%26%20Digital%20Forensics%20Student%20%F0%9F%9B%A1%EF%B8%8F&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Abhishekh Kumar Sah">
 
 
 
