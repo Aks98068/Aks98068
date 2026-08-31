@@ -105,7 +105,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,postgres,nodejs,react,nextjs,tailwind,cisco packet tracer,autopsy,"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,postgres,nodejs,react,nextjs,tailwind,"/>
 
 </p>
 
