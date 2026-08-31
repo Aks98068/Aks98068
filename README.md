@@ -1,22 +1,15 @@
-<table width="100vh">
-<tr>
-<td align="center" bgcolor="blue">
+<div style="width:100%; background-color:#0D1117; padding:50px 0; text-align:center;">
 
-<br><br>
-
-<h1>
-  <font color="#00D9FF">ABHISHEKH KUMAR SAH</font>
+<h1 style="color:#00D9FF; margin:0;">
+ABHISHEKH KUMAR SAH
 </h1>
 
-<h3>
-  <font color="#FFFFFF">🛡️ Cybersecurity & Digital Forensics Student | 🔍 Security Researcher | 💻 Developer</font>
+<h3 style="color:#FFFFFF;">
+🛡️ Cybersecurity & Digital Forensics Student | 🔍 Security Researcher | 💻 Developer
 </h3>
 
-<br><br>
+</div>
 
-</td>
-</tr>
-</table>
 
 
 
