@@ -122,7 +122,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,cs,js,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=python,go,cs,js,html,css,bash"/>
 
 </p>
 
