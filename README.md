@@ -1,6 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">👋 Hi, I'm Abhishekh Kumar Sah</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Abhishekh+Kumar+Sah;🛡️+Cybersecurity+%26+Digital+Forensics" alt="Typing SVG" />
+</h1>
+
 
 <h3 align="center">
 🛡️ Cybersecurity & Digital Forensics Student | 🔍 Security Researcher | 💻 Developer
