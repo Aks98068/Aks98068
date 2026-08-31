@@ -1,6 +1,6 @@
-<table width="100%">
+<table width="100vh">
 <tr>
-<td align="center" bgcolor="#0D1117">
+<td align="center" bgcolor="blue">
 
 <br><br>
 
