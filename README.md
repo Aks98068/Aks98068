@@ -95,7 +95,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,cpp,java,js,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=python,go,cpp,js,html,css,bash,batch"/>
 
 </p>
 
@@ -105,7 +105,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,postgres,nodejs,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,postgres,nodejs,react,nextjs,tailwind,cisco packet tracer,autopsy,"/>
 
 </p>
 
