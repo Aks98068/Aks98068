@@ -1,10 +1,8 @@
-<!-- ===================== HEADER ===================== -->
-
 <table width="100%">
 <tr>
 <td align="center" bgcolor="#00D9FF">
 
-<br>
+<br><br>
 
 <h1>
   <font color="#0D1117">ABHISHEKH KUMAR SAH</font>
@@ -17,12 +15,9 @@
 </table>
 
 <h3 align="center">
-  Cybersecurity & Digital Forensics Student
+🛡️ Cybersecurity & Digital Forensics Student | 🔍 Security Researcher | 💻 Developer
 </h3>
 
-<p align="center">
-  🔍 Security Researcher &nbsp;•&nbsp; 💻 Developer
-</p>
 
 <p align="center">
   <a href="https://github.com/Aks98068">
