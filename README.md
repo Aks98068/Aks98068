@@ -10,15 +10,11 @@
 
 <p align="center">
   <a href="https://github.com/Aks98068">
-    <img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-<!-- ===================== END HEADER ===================== -->
-
 ---
-
-<!-- ===================== ABOUT ===================== -->
 
 ## 🧑‍💻 About Me
 
@@ -107,7 +103,7 @@
 
 <img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-4B0082?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Nmap-Network%20Security-214478?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-Network%20Security-214478?style=for-the-badge&logo=nmap&logoColor=white"/>
 
 </p>
 
@@ -139,7 +135,7 @@
 
 🛡️ Cybersecurity • 🌐 Networking • 🔍 Digital Forensics • 🚨 Incident Response
 
-<br>
+<br><br>
 
 🔗 Blockchain • 🤖 AI for Cybersecurity • 🔐 Cryptography • 🧪 Security Research
 
@@ -268,17 +264,48 @@ Exploring research and development involving:
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aks98068&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Abhishekh's GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks98068&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Abhishekh's Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aks98068&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks98068&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aks98068&theme=tokyonight&hide_border=true" alt="Abhishekh's GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=Aks98068&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
 </p>
 
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aks98068&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Abhishekh's GitHub Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aks98068&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph"/>
+
+</p>
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake.svg">
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake.svg">
+
+</picture>
+
 </p>
 
 ---
@@ -303,7 +330,7 @@ Exploring research and development involving:
 <p align="center">
 
 <a href="https://github.com/Aks98068">
-<img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <!-- Add your LinkedIn link here -->
