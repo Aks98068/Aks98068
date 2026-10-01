@@ -8,7 +8,6 @@
 🔍 Security Researcher &nbsp;•&nbsp; 💻 Developer
 </p>
 
-
 <p align="center">
   <a href="https://github.com/Aks98068">
     <img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -17,7 +16,7 @@
 
 <!-- ===================== END HEADER ===================== -->
 
-
+---
 
 <!-- ===================== ABOUT ===================== -->
 
@@ -95,6 +94,7 @@
 </table>
 
 ---
+
 # ⚙️ Tools, Technologies & Development
 
 ## 🛠️ Tools
@@ -130,6 +130,8 @@
 <img src="https://skillicons.dev/icons?i=python,go,cs,js,html,css,bash"/>
 
 </p>
+
+---
 
 # 🛠️ Areas of Interest
 
@@ -260,6 +262,24 @@ Exploring research and development involving:
 * 🐳 Container Technologies
 * 🏗️ Secure System Architecture
 * 🔬 Cybersecurity Research Methodology
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aks98068&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Abhishekh's GitHub Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks98068&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Abhishekh's Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aks98068&theme=tokyonight&hide_border=true" alt="Abhishekh's GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aks98068&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Abhishekh's GitHub Activity Graph"/>
+</p>
 
 ---
 
