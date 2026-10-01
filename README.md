@@ -265,23 +265,37 @@ Exploring research and development involving:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aks98068&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Aks98068&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+height="180"
+alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks98068&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks98068&layout=compact&theme=tokyonight&hide_border=true"
+height="180"
+alt="Top Languages">
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aks98068&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<img
+src="https://streak-stats.demolab.com?user=Aks98068&theme=tokyonight&hide_border=true"
+height="180"
+alt="GitHub Contribution Streak">
 
 </p>
 
-### 📈 Contribution Activity
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aks98068&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph"/>
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aks98068&theme=github_dark"
+width="100%"
+alt="GitHub Contribution Activity">
 
 </p>
 
@@ -291,20 +305,10 @@ Exploring research and development involving:
 
 <p align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake-dark.svg">
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake.svg">
-
 <img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake.svg">
-
-</picture>
+src="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake.svg"
+width="100%"
+alt="GitHub Contribution Snake">
 
 </p>
 
