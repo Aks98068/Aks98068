@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aks98068">
-    <img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<a href="https://github.com/Aks98068">
+<img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 </p>
 
 ---
@@ -305,10 +305,22 @@ alt="GitHub Contribution Activity">
 
 <p align="center">
 
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake.svg">
+
 <img
 src="https://raw.githubusercontent.com/Aks98068/Aks98068/output/github-contribution-grid-snake.svg"
-width="100%"
-alt="GitHub Contribution Snake">
+alt="GitHub Contribution Snake"
+width="100%">
+
+</picture>
 
 </p>
 
@@ -336,10 +348,6 @@ alt="GitHub Contribution Snake">
 <a href="https://github.com/Aks98068">
 <img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<!-- Add your LinkedIn link here -->
-
-<!-- Add your portfolio website here -->
 
 </p>
 
