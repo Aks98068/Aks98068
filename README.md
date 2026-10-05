@@ -1,238 +1,302 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Abhishekh%20Kumar%20Sah&fontSize=52&fontColor=00E5FF" width="100%" alt="Abhishekh Kumar Sah">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Abhishekh%20Kumar%20Sah&fontSize=52&fontColor=00E5FF" width="100%" alt="Abhishekh Kumar Sah - Aks98068 GitHub">
 
 <h3 align="center">
 🛡️ Cybersecurity & Digital Forensics Student
 </h3>
 
 <p align="center">
-🐹 Go Developer &nbsp;•&nbsp; 🔍 Security Researcher &nbsp;•&nbsp; 💻 Software Developer
+🔍 Security Researcher &nbsp;•&nbsp; 💻 Developer
+</p>
+
+<p align="center">
+<b>Abhishekh Kumar Sah</b> &nbsp;•&nbsp; <b>GitHub: Aks98068</b>
 </p>
 
 <p align="center">
 <a href="https://github.com/Aks98068">
-<img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile of Abhishekh Kumar Sah - Aks98068">
 </a>
 </p>
 
 ---
 
-# 👋 About Me
-
-Hi, I'm **Abhishekh Kumar Sah** — a cybersecurity and digital forensics student interested in building practical security-focused software.
-
-My primary areas of interest include:
-
-* 🛡️ Cybersecurity
-* 🔍 Digital Forensics & Incident Response
-* 🐹 Go Development
-* 🌐 Networking & Network Security
-* 🔐 Secure Software Engineering
-* 🔬 Security Research
-* 💻 Developer Tooling
-
-I enjoy understanding how systems work, exploring security problems, and building practical tools that help with security, networking, and system analysis.
-
-### 🎯 Current Direction
-
-> **Building practical cybersecurity tools with Go while developing deeper expertise in digital forensics, networking, and secure system architecture.**
-
----
-
-# 🦓 Featured Project
-
-## Zebra — Go Security & Reconnaissance Toolkit
-
-**Zebra** is a production-oriented Go CLI toolkit focused on networking, reconnaissance, security utilities, and system-level workflows.
-
-The project is designed to explore practical cybersecurity functionality while developing strong Go programming, networking, CLI architecture, and system programming skills.
-
-### 🔧 Focus Areas
-
-* 🌐 Network Reconnaissance
-* 🔍 Security Reconnaissance
-* 🛡️ Cybersecurity Utilities
-* 🔐 TLS / SSL Inspection
-* 🌐 DNS & Network Analysis
-* 🖥️ System & Filesystem Utilities
-* ⚙️ Command-Line Tooling
-* 🐹 Go Development
-
-### 🛠️ Technology
+## 🧑‍💻 About Me
 
 ```text
-Go
-CLI
-Networking
-Cybersecurity
-Reconnaissance
-System Programming
+🛡️ Cybersecurity & Digital Forensics Student
+🔍 Interested in Digital Forensics & Incident Response
+🌐 Exploring Networking & Network Security
+🤖 Interested in AI-driven Cybersecurity Systems
+🔗 Exploring Blockchain Technologies & Security
+🔬 Interested in Research and Emerging Technologies
+💻 Building Secure and Intelligent Software Systems
+🐹 Developing Security Tools and CLI Applications with Go
 ```
 
-<p align="center">
-<a href="https://github.com/Aks98068/zebra">
-<img src="https://img.shields.io/badge/⭐%20View%20Zebra%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Zebra Repository">
-</a>
-</p>
+I'm **Abhishekh Kumar Sah**, known on GitHub as **Aks98068**. I am interested in cybersecurity, digital forensics, networking, secure software development, and security research.
+
+🎯 **Mission:** To develop practical cybersecurity solutions, conduct meaningful research, and contribute to innovative solutions in cybersecurity, networking, blockchain, and digital forensics.
 
 ---
 
-# 🛡️ Cybersecurity
+# 🛡️ Cybersecurity Focus Areas
 
-My cybersecurity interests include:
+<table>
+
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
 
 * Security Engineering
 * Threat Detection
 * Security Monitoring
-* Network Security
-* Security Automation
-* Threat Analysis
 * Secure System Design
-* Cyber Threat Intelligence
-* Incident Response
-* Security Architecture
+* Cyber Threat Analysis
+* Security Automation
 
----
+</td>
 
-# 🔍 Digital Forensics
+<td width="50%">
 
-I'm interested in understanding how digital evidence can be identified, collected, analyzed, and preserved.
-
-Areas I'm exploring:
+### 🔍 Digital Forensics
 
 * Digital Evidence Analysis
-* File System Artifacts
-* Operating System Artifacts
-* Timeline Analysis
-* Evidence Management
 * Incident Investigation
-* DFIR Methodologies
-* Forensic Tool Development
-* Secure Evidence Storage
+* DFIR Concepts
+* Security Artifact Analysis
+* Forensic Investigation
+* Evidence Management
 
----
+</td>
+</tr>
 
-# 🌐 Networking
+<tr>
+<td width="50%">
 
-I'm developing practical knowledge in:
+### 🌐 Networking
 
 * Computer Networks
-* TCP/IP
 * Network Architecture
-* Network Security
-* DNS
-* TLS / SSL
 * Network Monitoring
 * Traffic Analysis
+* Network Security
 * Network Reconnaissance
 
----
+</td>
 
-# 💻 Development
+<td width="50%">
 
-## 🐹 Programming Languages
+### 🔗 Blockchain
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=go,python,cs,js,html,css,bash" alt="Programming Languages">
-</p>
+* Distributed Ledger Technology
+* Blockchain Architecture
+* Smart Contract Security
+* Decentralized Systems
+* Blockchain Security Research
 
-## ⚙️ Web & Application Development
+</td>
+</tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,prisma" alt="Web Development Technologies">
-</p>
-
-## 🗄️ Databases & Infrastructure
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,mysql,postgres,git,github" alt="Infrastructure and Database Technologies">
-</p>
+</table>
 
 ---
 
-# 🛠️ Security & Networking Tools
+# ⚙️ Tools, Technologies & Development
+
+## 🛠️ Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer Networking">
 
-<img src="https://img.shields.io/badge/Nmap-Network%20Security-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Network Analysis">
 
-<img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-4B0082?style=for-the-badge" alt="Autopsy">
+<img src="https://img.shields.io/badge/Autopsy-Digital%20Forensics-4B0082?style=for-the-badge" alt="Autopsy Digital Forensics">
 
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+<img src="https://img.shields.io/badge/Nmap-Network%20Security-214478?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap Network Security">
 
+</p>
+
+---
+
+## 💻 Technologies & Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,mysql,postgres,nodejs,react,nextjs,tailwind" alt="Linux Docker Git GitHub MySQL PostgreSQL Node.js React Next.js Tailwind">
+
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,cs,js,html,css,bash" alt="Python Go C Sharp JavaScript HTML CSS Bash">
+
+</p>
+
+---
+
+# 🛠️ Areas of Interest
+
+<p align="center">
+
+🛡️ Cybersecurity • 🌐 Networking • 🔍 Digital Forensics • 🚨 Incident Response
+
+<br><br>
+
+🔗 Blockchain • 🤖 AI for Cybersecurity • 🔐 Cryptography • 🧪 Security Research
+
+</p>
+
+---
+
+# 🚀 Featured Work
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🛡️ Cybersecurity Projects
+
+Building practical tools and systems focused on:
+
+* Threat Detection
+* Security Monitoring
+* Network Analysis
+* Secure System Development
+* Security Automation
+
+</td>
+
+<td width="50%">
+
+## 🔍 Digital Forensics Projects
+
+Exploring and developing projects involving:
+
+* Digital Evidence Analysis
+* File and System Artifact Investigation
+* Incident Investigation
+* Timeline Analysis
+* DFIR Methodologies
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌐 Networking Projects
+
+Researching and building projects involving:
+
+* Network Architecture
+* Network Monitoring
+* Traffic Analysis
+* Network Performance
+* Network Security
+
+</td>
+
+<td width="50%">
+
+## 🔗 Blockchain Research
+
+Exploring research and development involving:
+
+* Distributed Systems
+* Blockchain Architecture
+* Consensus Mechanisms
+* Blockchain Security
+* Decentralized Applications
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🦓 Public Project - Zebra
+
+### Zebra - Go Security & Reconnaissance Toolkit
+
+**Zebra** is a Go-based command-line toolkit focused on cybersecurity, networking, reconnaissance, system utilities, and security-related workflows.
+
+The project is developed by **Abhishekh Kumar Sah (Aks98068)** and is part of my practical exploration of **Go programming, cybersecurity, networking, reconnaissance, and system-level development**.
+
+### 🔧 Zebra Focus Areas
+
+* 🐹 Go CLI Development
+* 🌐 Network Reconnaissance
+* 🔍 Security Reconnaissance
+* 🛡️ Cybersecurity Utilities
+* 🔐 TLS / SSL Inspection
+* 🌐 DNS Analysis
+* 🖥️ System Utilities
+* ⚙️ Command-Line Tooling
+
+<p align="center">
+<a href="https://github.com/Aks98068/zebra">
+<img src="https://img.shields.io/badge/Zebra%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Zebra Go Cybersecurity Reconnaissance Toolkit by Aks98068">
+</a>
 </p>
 
 ---
 
 # 🔬 Research Interests
 
-### 🛡️ Cybersecurity
+### 🛡️ Cybersecurity Research
 
-* Security Engineering
-* Threat Detection
+* AI-Driven Threat Detection
+* Adaptive Security Systems
 * Intrusion Detection
 * Network Threat Analysis
 * Security Automation
 * Cyber Threat Intelligence
-* Secure System Architecture
+* Security Architecture
 
-### 🔍 Digital Forensics
+### 🌐 Networking Research
 
-* Digital Evidence
-* Artifact Analysis
-* Timeline Analysis
-* Incident Investigation
-* DFIR
-* Forensic Tool Development
-
-### 🌐 Networking
-
-* Network Security
-* Network Traffic Analysis
-* Network Monitoring
+* Network Performance
 * Secure Network Architecture
-* DNS
-* TLS / SSL
-* Network Reconnaissance
+* Network Traffic Analysis
+* Software Defined Networking
+* Network Monitoring
+* Emerging Network Technologies
 
-### 🤖 Emerging Technologies
+### 🔗 Blockchain Research
 
-* AI-assisted Cybersecurity
-* Security Automation
 * Blockchain Security
-* Emerging Security Technologies
+* Distributed Systems
+* Consensus Mechanisms
+* Decentralized Identity
+* Smart Contract Security
+* Privacy in Blockchain Systems
 
 ---
 
 # 🌱 Currently Learning
 
-```text
-🐹 Go
-├── Advanced Go
-├── Networking
-├── Concurrency
-├── CLI Architecture
-└── Production Software Design
-
-🛡️ Cybersecurity
-├── Network Security
-├── Threat Detection
-├── Security Engineering
-└── Security Architecture
-
-🔍 Digital Forensics
-├── Digital Evidence
-├── System Artifacts
-├── Timeline Analysis
-└── DFIR
-
-🧠 Computer Science
-├── Data Structures
-├── Algorithms
-├── Complexity Analysis
-└── Problem Solving
-```
+* 🛡️ Advanced Cybersecurity Concepts
+* 🔍 Digital Forensics & Incident Response
+* 🌐 Advanced Networking
+* 🔗 Blockchain Architecture
+* 🤖 Artificial Intelligence for Cybersecurity
+* 🔐 Applied Cryptography
+* 🐳 Container Technologies
+* 🏗️ Secure System Architecture
+* 🔬 Cybersecurity Research Methodology
+* 🐹 Advanced Go Programming
 
 ---
 
@@ -243,12 +307,12 @@ I'm developing practical knowledge in:
 <img
 src="https://github-readme-stats.vercel.app/api?username=Aks98068&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 height="180"
-alt="GitHub Statistics">
+alt="Aks98068 GitHub Statistics">
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks98068&layout=compact&theme=tokyonight&hide_border=true"
 height="180"
-alt="Top Languages">
+alt="Aks98068 GitHub Top Languages">
 
 </p>
 
@@ -257,33 +321,37 @@ alt="Top Languages">
 <img
 src="https://streak-stats.demolab.com?user=Aks98068&theme=tokyonight&hide_border=true"
 height="180"
-alt="GitHub Contribution Streak">
+alt="Aks98068 GitHub Contribution Streak">
 
 </p>
+
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aks98068&theme=github_dark"
 width="100%"
-alt="GitHub Contribution Activity">
+alt="Aks98068 GitHub Contribution Activity">
 
 </p>
 
 ---
 
-# 🎯 Goals
+# 🎯 My Goals
 
 ```text
-🛡️ Build practical cybersecurity tools
-🐹 Become highly proficient in Go
-🔍 Develop digital forensics expertise
-🌐 Deepen networking and network security knowledge
-🔐 Build secure software systems
-🧠 Strengthen algorithms and computer science fundamentals
-🔬 Conduct meaningful cybersecurity research
+🛡️ Build practical cybersecurity projects
+🔍 Develop Digital Forensics tools
+🌐 Build networking and network analysis projects
+🔗 Explore blockchain technologies and security
+🔬 Conduct meaningful research
+🤖 Develop AI-driven security systems
 🌍 Contribute to open-source projects
-📚 Continuously improve technical knowledge
+📚 Continuously improve my technical knowledge
+🐹 Build production-quality Go security tools
 ```
 
 ---
@@ -293,7 +361,7 @@ alt="GitHub Contribution Activity">
 <p align="center">
 
 <a href="https://github.com/Aks98068">
-<img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Aks98068-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abhishekh Kumar Sah GitHub Aks98068">
 </a>
 
 </p>
@@ -302,12 +370,14 @@ alt="GitHub Contribution Activity">
 
 # 🛡️ Professional Philosophy
 
-> **Understand systems. Find weaknesses. Build better defenses.**
+> **"Technology evolves continuously, and so must our ability to understand, secure, investigate, and innovate."**
+
+---
 
 <p align="center">
 
-### 🛡️ Cybersecurity • 🔍 Digital Forensics • 🐹 Go • 🌐 Networking
+### 🛡️ Cybersecurity • 🌐 Networking • 🔗 Blockchain • 🔍 Digital Forensics • 🐹 Go
 
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting **Abhishekh Kumar Sah (@Aks98068)**'s GitHub profile!
 
 </p>
