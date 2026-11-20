@@ -1,38 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Abhishekh Kumar Sah — animated GitHub profile">
-<title>Abhishekh Kumar Sah — animated GitHub profile</title>
-<defs>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F97316"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
-  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F7F4EE" stop-opacity="0"/><stop offset=".5" stop-color="#F7F4EE" stop-opacity=".8"/><stop offset="1" stop-color="#F7F4EE" stop-opacity="0"/></linearGradient>
-  <style>
-    
-    
-    text { font-family: 'Inter', 'Segoe UI', Arial, sans-serif; }
-    .serif { font-family: Georgia, 'Times New Roman', serif; }
-    .muted { fill: #A7A9AD; }
-    .small { font-size: 12px; letter-spacing: 1.8px; }
-    .fade { opacity: 0; animation: fadeIn .8s ease forwards; }
-    .rise { opacity: 0; transform-box: fill-box; transform-origin: center; animation: rise .85s cubic-bezier(.2,.8,.2,1) forwards; }
-    .shine { animation: shine 5s ease-in-out 2s infinite; }
-    .pulse { animation: pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-    @keyframes fadeIn { to { opacity: 1; } }
-    @keyframes rise { 0% { opacity: 0; transform: translateY(18px); } 100% { opacity: 1; transform: translateY(0); } }
-    @keyframes shine { 0%,65% { transform: translateX(-130%); } 100% { transform: translateX(130%); } }
-    @keyframes pulse { 0%,100% { opacity: .45; transform: scale(.92); } 50% { opacity: 1; transform: scale(1.08); } }
-    @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; opacity: 1 !important; transform: none !important; } }
-  </style>
-</defs>
-<rect width="1200" height="340" rx="22" fill="#171A1F"/>
-<circle cx="1090" cy="45" r="180" fill="#F97316" opacity=".07"/>
-<path d="M0 310 H1200" stroke="#343941"/>
-<text x="54" y="48" fill="#F97316" class="small fade">CYBERSECURITY / DIGITAL FORENSICS / DEVELOPMENT</text>
-<g><text x="54" y="94" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.000s">             .-''''-.             </text><text x="54" y="102" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.025s">           .'  .--.  '.           </text><text x="54" y="110" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.050s">          /   /    \   \</text><text x="54" y="118" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.075s">         |   |  ..  |   |          </text><text x="54" y="126" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.100s">         |   |  __  |   |          </text><text x="54" y="134" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.125s">          \   \____/   /          </text><text x="54" y="142" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.150s">           '.        .'           </text><text x="54" y="150" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.175s">             '-.__.-'             </text><text x="54" y="158" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.200s">          .-----------.            </text><text x="54" y="166" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.225s">         /  /       \  \</text><text x="54" y="174" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.250s">        /__/_________\__\</text><text x="54" y="182" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.275s">           /  / \  \</text><text x="54" y="190" fill="#0F766E" font-family="monospace" font-size="7" opacity=".9" class="fade" style="animation-delay:0.300s">          /__/   \__\</text></g>
-<text x="420" y="132" fill="#F7F4EE" font-size="52" class="serif rise" style="animation-delay:.4s">Abhishekh Kumar</text>
-<text x="420" y="190" fill="#F7F4EE" font-size="58" class="serif rise" style="animation-delay:.65s">Sah<tspan fill="#F97316">.</tspan></text>
-<rect x="420" y="216" width="400" height="1" fill="#454A52"/>
-<text x="420" y="248" fill="#A7A9AD" font-size="15" class="fade" style="animation-delay:1s">Cybersecurity &amp; Digital Forensics Student</text>
-<text x="420" y="275" fill="#A7A9AD" font-size="15" class="fade" style="animation-delay:1.2s">Security Researcher · Developer · Go learner</text>
-<text x="420" y="316" fill="#F97316" class="small fade" style="animation-delay:1.5s">@Aks98068</text>
-<rect x="810" y="0" width="180" height="340" fill="url(#shine)" opacity=".12" class="shine"/>
-<circle cx="1135" cy="290" r="5" fill="#F97316" class="pulse"/>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img">
+    <style>
+      @keyframes rise { from { opacity:0; transform:translateY(16px); } to { opacity:1; transform:translateY(0); } }
+      @keyframes grow { from { transform:scaleY(.05); opacity:.25; } to { transform:scaleY(1); opacity:1; } }
+      @keyframes sweep { 0%,65% { transform:translateX(-160%); } 100% { transform:translateX(260%); } }
+      @keyframes pulse { 0%,100% { opacity:.35; } 50% { opacity:1; } }
+      .enter { animation:rise .8s cubic-bezier(.2,.8,.2,1) both; animation-delay:0s; }
+      .bar { transform-box:fill-box; transform-origin:bottom; animation:grow .75s ease-out both; }
+      .shine { animation:sweep 5s ease-in-out infinite; }
+      .pulse { animation:pulse 2s ease-in-out infinite; }
+      @media (prefers-reduced-motion: reduce) {
+        *,*::before,*::after { animation:none !important; transition:none !important; }
+      }
+    </style>
+    <rect width="1100" height="270" rx="22" fill="#F7F4EE"/>
+    <rect x="28" y="28" width="1044" height="214" rx="16" fill="#FFFEFA" stroke="#E6DED2"/>
+    <path d="M850 28H1056Q1072 28 1072 44V226Q1072 242 1056 242H930Z" fill="#FFF0E3"/>
+    <circle cx="962" cy="111" r="59" fill="none" stroke="#F97316" stroke-width="1.5" opacity=".45"/>
+    <circle cx="962" cy="111" r="42" fill="none" stroke="#F97316" stroke-width="1" opacity=".35"/>
+    <path d="M962 38V184M889 111H1035" stroke="#F97316" opacity=".18"/>
+    <g class="enter">
+      <text x="76" y="83" fill="#C94F0B" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3">CYBERSECURITY / DIGITAL FORENSICS</text>
+      <text x="72" y="151" fill="#202124" font-family="Georgia,serif" font-size="53">Abhishekh Kumar Sah</text>
+      <text x="76" y="190" fill="#77736C" font-family="Arial,sans-serif" font-size="17">Security researcher · Go developer · Software builder</text>
+      <text x="76" y="218" fill="#C94F0B" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">INVESTIGATE  /  BUILD  /  SECURE</text>
+    </g>
+    <rect x="914" y="63" width="96" height="96" rx="48" fill="#F97316" opacity=".10"/>
+    <path d="M962 74l28 11v23c0 20-13 34-28 42-15-8-28-22-28-42V85z" fill="none" stroke="#C94F0B" stroke-width="3"/>
+    <path d="M949 108l9 9 18-21" fill="none" stroke="#C94F0B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>

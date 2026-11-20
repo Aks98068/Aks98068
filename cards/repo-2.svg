@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="166" viewBox="0 0 540 166" role="img">
+    <style>
+      @keyframes rise { from { opacity:0; transform:translateY(16px); } to { opacity:1; transform:translateY(0); } }
+      @keyframes grow { from { transform:scaleY(.05); opacity:.25; } to { transform:scaleY(1); opacity:1; } }
+      @keyframes sweep { 0%,65% { transform:translateX(-160%); } 100% { transform:translateX(260%); } }
+      @keyframes pulse { 0%,100% { opacity:.35; } 50% { opacity:1; } }
+      .enter { animation:rise .8s cubic-bezier(.2,.8,.2,1) both; animation-delay:1.15s; }
+      .bar { transform-box:fill-box; transform-origin:bottom; animation:grow .75s ease-out both; }
+      .shine { animation:sweep 5s ease-in-out infinite; }
+      .pulse { animation:pulse 2s ease-in-out infinite; }
+      @media (prefers-reduced-motion: reduce) {
+        *,*::before,*::after { animation:none !important; transition:none !important; }
+      }
+    </style>
+    <rect x="1" y="1" width="538" height="164" rx="16" fill="#FFFEFA" stroke="#E6DED2"/>
+    <rect x="1" y="1" width="6" height="164" rx="3" fill="#F97316"/>
+    <g class="enter">
+      <text x="27" y="38" fill="#C94F0B" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">EXPLORE</text>
+      <text x="27" y="76" fill="#202124" font-family="Georgia,serif" font-size="28">More projects</text>
+      <text x="27" y="104" fill="#77736C" font-family="Arial,sans-serif" font-size="13">Explore my cybersecurity, forensics and development work.</text>
+      <text x="27" y="137" fill="#77736C" font-family="Arial,sans-serif" font-size="12">★ 0  ·  VIEW REPOSITORY ↗</text>
+    </g>
+    </svg>
