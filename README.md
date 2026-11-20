@@ -44,32 +44,6 @@
 
 ---
 
-# 🦓 Public Project — Zebra
-
-### Zebra — Go Security & Reconnaissance Toolkit
-
-**Zebra** is a Go-based command-line toolkit focused on cybersecurity, networking, reconnaissance, system utilities, and security-related workflows.
-
-The project is developed by **Abhishekh Kumar Sah (Aks98068)** and is part of my practical exploration of **Go programming, cybersecurity, networking, reconnaissance, and system-level development**.
-
-### 🔧 Zebra Focus Areas
-
-- 🐹 Go CLI Development
-- 🌐 Network Reconnaissance
-- 🔍 Security Reconnaissance
-- 🛡️ Cybersecurity Utilities
-- 🔐 TLS / SSL Inspection
-- 🌐 DNS Analysis
-- 🖥️ System Utilities
-- ⚙️ Command-Line Tooling
-
-<p align="center">
-  <a href="https://github.com/Aks98068/zebra">
-    <img src="https://img.shields.io/badge/Zebra%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Zebra Go Cybersecurity Reconnaissance Toolkit by Aks98068">
-  </a>
-</p>
-
----
 
 
 # 📊 GitHub Activity
@@ -93,19 +67,7 @@ The project is developed by **Abhishekh Kumar Sah (Aks98068)** and is part of my
 
 ---
 
-# 🎯 My Goals
 
-```text
-🛡️ Build practical cybersecurity projects
-🔍 Develop Digital Forensics tools
-🌐 Build networking and network analysis projects
-🔗 Explore blockchain technologies and security
-🔬 Conduct meaningful research
-🤖 Develop AI-driven security systems
-🌍 Contribute to open-source projects
-📚 Continuously improve my technical knowledge
-🐹 Build production-quality Go security tools
-```
 
 ---
 
